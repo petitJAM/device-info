@@ -1,2 +1,2 @@
 # device-info
-App for display device info of all kinds
+App for displaying device info of all kinds
